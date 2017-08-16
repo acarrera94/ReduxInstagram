@@ -1,6 +1,7 @@
-# Learn Redux
+# Redux Instagram
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
+A simple React + Redux implementation. Photos and comments are static.
+This was part of a tutorial 
 
 ## Running
 
